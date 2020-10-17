@@ -12,3 +12,4 @@ while cap.isOpened():
     cv2.imshow('Car Detector',img)
     cv2.waitKey(1)
 
+u
